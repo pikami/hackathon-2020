@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="1" time="4.843">
+  <testsuite name="Helpers" errors="0" failures="1" skipped="0" timestamp="2020-10-30T12:30:05" time="4.739" tests="1">
+    <testcase classname="Helpers og for a fee, keep on sipping fam" name="Helpers og for a fee, keep on sipping fam" time="4.02">
+      <failure>TypeError: Cannot read property &apos;length&apos; of undefined
+    at Object.&lt;anonymous&gt; (C:\Projects\hackathon\hackathon-2020\scripts\snake.test.js:57:50)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
